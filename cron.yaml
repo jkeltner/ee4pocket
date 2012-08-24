@@ -1,0 +1,5 @@
+cron:
+- description: daily saving to pocket
+  url: /execute 
+  schedule: every mon,tue,wed,thu,fri 17:10
+  timezone: America/Los_Angeles
